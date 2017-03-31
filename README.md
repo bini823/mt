@@ -12,7 +12,7 @@
 </tr>
 <tr>
 <th>Underscores in Links Test</th>
-<td>Website must contain underscores.</td><br>
+<td>Underscores must contain in-page URLs.</td><br>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
