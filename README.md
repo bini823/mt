@@ -26,9 +26,9 @@ http://tourism.gov.in/sites/default/files/awards</td><br>
 </tr>
 <tr>
 <th>WWW redirection Test</th>
-<td>a redirect is in place to redirect traffic from your non-preferred domain.</td>
+<td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
 <td>1. Hosting (Parking) All the Domains on Your Web Host.<br>
-2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar</td><br>
+2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar.</td><br>
 <tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
