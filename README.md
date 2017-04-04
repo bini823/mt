@@ -1,33 +1,36 @@
 <html>
+<head>
+	<title></title>
+</head>
 <body>
+<h1><b><i>Ministry of Tourism</i></b></h1>
 <table>
-<b><i><H1>Ministry of Tourism</H1></i></b>
 <tr>
 <th><b>Title</b></th>
 <td><b>Description</b></td>
-<td><b>Suggestion</b></td><br>
+<td><b>Suggestion</b></td>
 </tr>
 <tr>
 <th>Meta Description</th>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
-<td>The Ministry of Tourism, a branch of the Government of India, is the apex body for formulation and administration. </td><br>
+<td>The Ministry of Tourism, a branch of the Government of India, is the apex body for formulation and administration. </td>
 </tr>
 <tr>
 <th>Underscores in Links Test</th>
 <td>Underscores must contain in-page URLs.</td>
 <td>http://tourism.gov.in/sites/default/files/Cleanliness_Related_Pakhwada<br>
-http://tourism.gov.in/sites/default/files/awards</td><br>
+http://tourism.gov.in/sites/default/files/awards</td>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
 <td>http://tourism.gov.in/sites/default/files/awards/final-20award/20book/20pages<br>
-http://tourism.gov.in/sites/default/files/awards</td><br>
+http://tourism.gov.in/sites/default/files/awards</td>
 </tr>
 <tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
-<td><img id="user-content-t007-10048" alt="images" src="/bini823/mt/raw/gh-pages/bini823/mt/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
+<td><img id="user-content-t007-10048" alt="images" src="/bini823/mt/raw/gh-pages/bini823/mt/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td>
 </tr>
 <tr>
 <th>Domain Authority</th>
@@ -37,7 +40,7 @@ http://tourism.gov.in/sites/default/files/awards</td><br>
 3.Build a well-planned internal link structure.<br>
 4.Social media optimization.<br>
 5.Increase user friendliness of your site. etc<br>
-</td><br>
+</td>
 </tr>
 <tr>
 <th>Page Authority</th>
@@ -46,16 +49,16 @@ http://tourism.gov.in/sites/default/files/awards</td><br>
 2.Spread the link juice from pages with high PA to those with less.<br>
 3.Make sure each page is packed with useful content.<br>
 4.Build your DomainAuthority.<br>
-5.Regularly remove harmful links to your page.</td><br>
+5.Regularly remove harmful links to your page.</td>
 <tr>
 <th>HTML Page Size Test</th>
-<td>Average web page size should be of 33 Kb. </td><br>
+<td>Average web page size should be of 33 Kb. </td>
 </tr>
 <tr>
 <th>WWW redirection Test</th>
 <td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
 <td>1. Hosting (Parking) All the Domains on Your Web Host.<br>
-2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar.</td><br>
+2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar.</td>
 </tr>
 <tr>
 <th>HTML Compression Test</th>
@@ -66,13 +69,13 @@ IIS provides the following compression options:<br>
 2.Dynamic application responses only<br>
 3.Both static files and dynamic application responses<br>
 For Apache You will need to add the following lines to your .htaccess file:<br>
-<IfModule mod_deflate.c>
+
   # Compress HTML, CSS, JavaScript, Text, XML and fonts
   AddOutputFilterByType DEFLATE application/javascript
   AddOutputFilterByType DEFLATE application/rss+xml
   AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
   AddOutputFilterByType DEFLATE application/x-font
-  AddOutputFilterByType DEFLATE application/x-font-opentype</IfModule><br></td>
+  AddOutputFilterByType DEFLATE application/x-font-opentype<br></td>
 </tr>
 </table>
 </body>
