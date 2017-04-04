@@ -14,12 +14,14 @@
 </tr>
 <tr>
 <th>Underscores in Links Test</th>
-<td>Underscores must contain in-page URLs.</td><br>
+<td>Underscores must contain in-page URLs.</td>
+<td>http://tourism.gov.in/sites/default/files/Cleanliness_Related_Pakhwada<br>
+http://tourism.gov.in/sites/default/files/awards</td><br>
 </tr>
 <tr>
 <th>SEO Friendly URL Test</th>
 <td>An SEO friendly url must caontain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.</td>
-<td>http://tourism.gov.in/sites/default/files/Cleanliness_Related_Pakhwada<br>
+<td>http://tourism.gov.in/sites/default/files/awards/final-20award/20book/20pages<br>
 http://tourism.gov.in/sites/default/files/awards</td><br>
 </tr>
 <tr>
