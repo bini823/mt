@@ -25,6 +25,11 @@ http://tourism.gov.in/sites/default/files/awards</td><br>
 http://tourism.gov.in/sites/default/files/awards</td><br>
 </tr>
 <tr>
+<th>WWW redirection Test</th>
+<td>a redirect is in place to redirect traffic from your non-preferred domain.</td>
+<td>1. Hosting (Parking) All the Domains on Your Web Host.<br>
+2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar</td><br>
+<tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
 <td><img id="user-content-t007-10048" alt="images" src="/bini823/mt/raw/gh-pages/bini823/mt/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
