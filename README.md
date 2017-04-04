@@ -66,7 +66,7 @@ IIS provides the following compression options:<br>
 2.Dynamic application responses only<br>
 3.Both static files and dynamic application responses<br>
 For Apache You will need to add the following lines to your .htaccess file:<br>
-# Compress HTML, CSS, JavaScript, Text, XML and fonts<br> AddOutputFilterByType DEFLATE application/javascript<br> AddOutputFilterByType DEFLATE application/rss+xml<br> AddOutputFilterByType DEFLATE application/vnd.ms-fontobject<br> AddOutputFilterByType DEFLATE application/x-font<br> AddOutputFilterByType DEFLATE application/x-font-opentype</td><br>
+# Compress HTML, CSS, JavaScript, Text, XML and fonts<br> AddOutputFilterByType DEFLATE application/javascript<br> AddOutputFilterByType DEFLATE application/rss+xml<br> AddOutputFilterByType DEFLATE application/vnd.ms-fontobject<br> AddOutputFilterByType DEFLATE application/x-font<br> AddOutputFilterByType DEFLATE application/x-font-opentype</td>
 </tr>
 </table>
 </body>
