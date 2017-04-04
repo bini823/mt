@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title></title>
 </head>
 <body>
 <h1><b><i>Ministry of Tourism</i></b></h1>
@@ -53,6 +52,7 @@ http://tourism.gov.in/sites/default/files/awards</td>
 <tr>
 <th>HTML Page Size Test</th>
 <td>Average web page size should be of 33 Kb. </td>
+<td></td>
 </tr>
 <tr>
 <th>WWW redirection Test</th>
@@ -70,7 +70,7 @@ IIS provides the following compression options:<br>
 3.Both static files and dynamic application responses<br>
 For Apache You will need to add the following lines to your .htaccess file:<br>
 
-  # Compress HTML, CSS, JavaScript, Text, XML and fonts
+  Compress HTML, CSS, JavaScript, Text, XML and fonts
   AddOutputFilterByType DEFLATE application/javascript
   AddOutputFilterByType DEFLATE application/rss+xml
   AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
