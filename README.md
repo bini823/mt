@@ -198,7 +198,7 @@ Click on save, and now you have a favicon of your own.</td>
 </tr>
 <tr>
 <th>WWW redirection Test</th>
-<td>redirect is not place to redirect traffic from your non-preferred domain. Your website does not directs </td>
+<td>Redirect is not place to redirect traffic from your non-preferred domain. Your website does not directs </td>
 <td>Website should directs <b>www.tourism.gov.in</b> and <b>tourism.gov.in</b> to the same URL.</td>
 </tr>
 <tr>
