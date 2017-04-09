@@ -47,6 +47,16 @@ table#t01 th {
 <b>Eg:-</b> The Ministry of Tourism, a branch of the Government of India, is the apex body for formulation and administration.<br><b>(114 characters)</b></td>
   </tr>
   <tr>
+  <th>Meta keywords</th>
+  <td>Meta keywords not Found</td>
+  <td>Google Does not accept meta keywords any more.</td>
+  </tr>
+  <tr>
+  <th>Keywords Test</th>
+  <td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
+  <td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
+  </tr>
+  <tr>
 
 <th>H1 Headings Status</th>
 
@@ -68,13 +78,18 @@ table#t01 th {
 </tr>
 <tr>
 <th>Sitemap Test</th>
-<td>We've found 1 sitemaps files for your website</td>
+<td>We've found <b>1</b> sitemaps files for your website</td>
 <td>Sitemaps are a very important way for a website to communicate with a search engine. It tells a search engine which part of the website to not include for indexing.<br><br>
 <b>Eg:-</b>  http://tourism.gov.in/sitemap.xml </td>
 </tr>
 <tr>
+  <th>Disallow Directive Checker</th>
+  <td>Your robots.txt file disallow the search engines access to some parts of your website.</td>
+  <td>You are advised to check carefully if the access to these resources or pages must be blocked.</td>
+  </tr>
+<tr>
 <th>Broken Links Test</th>
-<td>From 141 distinct anchor links analyzed, none of them appears to be broken.</td>
+<td>From <b>141</b> distinct anchor links analyzed, none of them appears to be broken.</td>
 <td>If broken link appears, It can hurt your SEO and page rankings. The worst result for the user clicking on a broken link is to be sent to a generic browser 404 page not found.<br><br>
 <b>Fixing broken links with Broken Link Checker:-</b><br>
 1.<b>Edit URL –</b> change the URL if it is misspelled or you find there’s an updated link. The Suggestions option may give you an alternative link.<br>
@@ -93,7 +108,7 @@ table#t01 th {
 
 <th>SEO Friendly URL Test</th>
 
-<td>32 internal urls found that are not seo friendly.</td>
+<td><b>32</b> internal urls found that are not seo friendly.</td>
 
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). Underscores, upercase Alphabets and specialchars (e-g: & ? %) are nto seo friendly.<br><br>
 <b>Eg:-</b> http://tourism.gov.in/sites/default/files/awards/final-20award/20book/20pages <br>http://tourism.gov.in/sites/default/files/awards</td>
@@ -103,7 +118,7 @@ table#t01 th {
 
 <th>Image Alt Test</th>
 
-<td>Your webpage has 43 'img' tags and 1 of them missing the required 'alt' attribute.</td>
+<td>Your webpage has <b>43</b> 'img' tags and <b>1</b> of them missing the required 'alt' attribute.</td>
 
 <td>Required 'alt' attribute.<br><br>
 <img id="t007-10048" style="width: 100%; height: auto;" alt="image" src="/images/t_image-1-.png"  width ="108" height ="65" /></td>
@@ -113,7 +128,7 @@ table#t01 th {
 
 <th>Inline CSS Test</th>
 
-<td>Your webpage is using 1 inline CSS styles.</td>
+<td>Your webpage is using <b>1</b> inline CSS styles.</td>
 
 <td>A webpage should not use inline css.<br>
 Remove inline css and add it in external css file.</td>
@@ -122,12 +137,17 @@ Remove inline css and add it in external css file.</td>
 <tr>
 <th>Favicon Test</th>
 <td>Your website appears to have a favicon.</td>
-<td>If favicon does'nt appears then following method should be used:-<br><br>
+<td><b>If favicon doesn't appears then following method should be used:-</b><br><br>
 You need to start with a square image. When you have the image you want, name it favicon.ico. 
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
 Click on save, and now you have a favicon of your own.</td>
 </tr>
+<tr>
+  <th>Deprecated HTML Tags</th>
+  <td>Your page does not use HTML deprecated tags.</td>
+  <td>A webpage should not use deprecated html tags.</td>
+  </tr>
 <tr>
 <th>Noindex Tag Checker</th>
 <td>Your webpage does not use the noindex meta tag.</td>
@@ -175,6 +195,11 @@ Click on save, and now you have a favicon of your own.</td>
 
 5.Regularly remove harmful links to your page.</td>
 
+</tr>
+<tr>
+<th>WWW redirection Test</th>
+<td>redirect is not place to redirect traffic from your non-preferred domain. Your website does not directs </td>
+<td>Website should directs <b>www.tourism.gov.in</b> and <b>tourism.gov.in</b> to the same URL.</td>
 </tr>
 <tr>
 
